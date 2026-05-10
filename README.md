@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Jordan 👋
+
+Computer Engineering student focused on Python development and problem solving.
+
+I enjoy building small projects, exploring programming concepts, and improving my skills through practice.
+
 
 <!--
 **Jrd4n10/Jrd4n10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
